@@ -16,9 +16,8 @@ I was previously an Applied Mathematics-Biology major at Harvard College (class 
 
 See my posts on:
 
-- [Random topics](https://pfreese.github.io/tag/random/)
-
-- <a href="https://pfreese.github.io/tag/random/" target="blank">Also random topics</a>
+- <a href="https://pfreese.github.io/tag/random/" target="blank">Random topics</a>
+- <a href="https://pfreese.github.io/tag/papers/" target="blank">Paper summaries</a>
 
 ### Contact me
 
