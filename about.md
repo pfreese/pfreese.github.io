@@ -12,9 +12,7 @@ I was previously an Applied Mathematics-Biology major at Harvard College (class 
 
 
 
-<img src="/images/freese_peter_headshot.jpg" width="200">
-
-![](/images/freese_peter_headshot.jpg "Peter Freese")
+<img src="/images/freese_peter_headshot.jpg" width="150">
 
 ### Contact me
 
