@@ -10,9 +10,15 @@ I was previously an Applied Mathematics-Biology major at Harvard College (class 
 
 ### About me
 
-
-
 <img src="/images/freese_peter_headshot.jpg" width="150">
+
+### This blog
+
+See my posts on:
+
+- [Random topics](https://pfreese.github.io/tag/random/)
+
+- <a href="https://pfreese.github.io/tag/random/" target="blank">Also random topics</a>
 
 ### Contact me
 
