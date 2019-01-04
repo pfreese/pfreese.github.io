@@ -10,6 +10,6 @@ A few new things I learned:
 
 - Instead of testing a piece of code, it can be benchmarked with ```BenchmarkXxx(*testing.B)``` in place of ```TestXxx(*testing.T)```.
 
-- You can demonstrate expected behavior of functions with "example"s through ```ExampleXxx()```, then printing out the output of the example, and including on the next line the expected output in a formatted comment (e.g., ```// Output: [-2 0 3 5 100]```). See my implementation of this with <a href="https://github.com/pfreese/go_basics/blob/master/pkg/demo/sort_slice_test.go" target="_blank">```ExampleSortedUniqueIntSlice()```</a> for <a href="https://github.com/pfreese/go_basics/blob/master/pkg/demo/sort_slice.go" target="_blank">```SortedUniqueIntSlice()```</a>
+- You can demonstrate expected behavior of functions with "example"s through ```ExampleXxx()```, then printing out the output of the example, and including on the next line the expected output in a formatted comment (e.g., ```// Output: [-2 0 3 5 100]```). See my implementation of this with <a href="https://github.com/pfreese/go_basics/blob/master/pkg/demo/sort_slice_test.go" target="_blank">```ExampleSortedUniqueIntSlice()```</a> for <a href="https://github.com/pfreese/go_basics/blob/master/pkg/demo/sort_slice.go" target="_blank">```SortedUniqueIntSlice()```</a>.
 
 
